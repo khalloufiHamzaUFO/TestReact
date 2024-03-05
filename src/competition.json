@@ -1,0 +1,20 @@
+{
+      "Competitions": [
+      {
+      "id": "1",
+      "name": "Hackathon",
+      "fees": "100",
+      "date": "01/04/2023",
+      "participants": 10,
+      "description": "ANYYDESCRIPTION"
+    },
+    {
+      "id": "2",
+      "name": "Mett and greek",
+      "fees": "100",
+      "date": "01/04/2023",
+      "participants": 0,
+      "description": "ANYYDESCRIPTIONANYYDESCRIPTION2"
+    }
+  ]
+}
